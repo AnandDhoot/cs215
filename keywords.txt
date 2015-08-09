@@ -1,0 +1,11 @@
+AG.LND.TOTL.K2	sq km	square kilometers	area
+BN.KLT.DINV.CD	foreign direct investment	FDI
+BX.GSR.MRCH.CD	exports	export
+EG.ELC.PROD.KH	kWh	kilowatt-hour	kilowatt	electricity
+EN.ATM.CO2E.KL	kiloton	CO2	emissions
+EP.PMP.DESL.CD	litre	diesel	fuel
+FP.CPI.TOTL.ZG	inflation	consumer price index	consumer prices
+IT.NET.USER.P2	internet	per 100 people
+NY.GDP.MKTP.CD	GDP	gross domestic product
+SP.DYN.LE00.IN	years	life expectancy
+SP.POP.TOTL	population
